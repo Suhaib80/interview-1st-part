@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.fs-12{font-size: 12px;}
+.fs-60{font-size: 60px;}
+
+.right-1{right:1%;}
+.right-7{right:7%;}
+.right-9{right:9%;}
+.right-10{right:10%;}
+.right-25{right:25%;}
+.bottom-2{bottom:2%;}
+.start-10{left:10%;}
+
+.h-8{height: 8%;}
+
+.text-blue1{color: #1D3B60;}
+.text-blue2{color: #3165A7 !important;}
+
+/* header section start */
+
+
+
+/* header section end */
+
+/* Banner Section Start */
+.banner .giv p{
+    letter-spacing: 2px;
+}
+.spot button{
+    box-shadow: 5px 5px;
+}
+.spot button:hover{
+    transition: all 0.5s;
+    transition-delay: 1s;
+    box-shadow: 0px 0px;
+}
+/* Banner Section End */
+
+/* Under Section Start */
+
+/* Under Section End */
+
+/* Footer Section Start */
+
+/* Footer Section End */
