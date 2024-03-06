@@ -5,24 +5,47 @@
 }
 
 .fs-12{font-size: 12px;}
+.fs-16{font-size: 16px;}
+.fs-25{font-size: 25px;}
 .fs-60{font-size: 60px;}
+.fs-80{font-size: 80px;}
 
 .right-1{right:1%;}
 .right-7{right:7%;}
 .right-9{right:9%;}
 .right-10{right:10%;}
 .right-25{right:25%;}
-.bottom-2{bottom:2%;}
-.start-10{left:10%;}
 
-.h-8{height: 8%;}
+.top-50{top: 50%;}
+
+.bottom-2{bottom:2%;}
+
+.start-7{left:7%;}
+.start-10{left:10%;}
+.start-30{left:30%;}
+
+.h-40{height: 40%;}
+.h-17{height: 17%;}
+
+.w-209{width: 209px;}
 
 .text-blue1{color: #1D3B60;}
 .text-blue2{color: #3165A7 !important;}
+.text-blue-light{color: #896fff;}
 
+.pt-40{padding-top: 40px;}
+.pt-80{padding-top: 80px;}
+.pb-80{padding-bottom: 80px;}
+
+.giv h1,
+.spot h1,
+.the div,
+.the .by{
+    line-height: 52px;
+}
+
+/* Page 1ST Start */
 /* header section start */
-
-
 
 /* header section end */
 
@@ -47,3 +70,68 @@
 /* Footer Section Start */
 
 /* Footer Section End */
+/* Page 1ST End */
+
+/* Page 2ND Start */
+/* Header Section Start */
+.header .log-btn:hover{
+    background-color: #000 !important;
+    box-shadow: 5px 5px #fff;
+    transition: all 0.5s;
+}
+/* Header Section End */
+
+/* About Section Start */
+
+/* About Section End */
+
+/* Banner Section Start */
+
+/* Banner Section End */
+/* Opening Section Start */
+.opening{height: 850px;}
+/* Opening Section End */
+
+/* Changing Section Start */
+.changing{height: 350px;}
+/* Changing Section End */
+
+/* Meet Section Start */
+.meet{
+    height: 210px;
+}
+/* Meet Section End */
+
+/* Image Section Start */
+.imag img{
+    width: 120px;
+    height: 120px;
+    transform: rotate(30deg);
+}
+.imag img:hover{
+    /* width: 120px;
+    height: 120px; */
+    transform: rotate(15deg);
+    transition: all 0.5s;
+}
+.imag .she{
+    line-height: 2px;
+}
+/* Image Section End */
+/* Belong Section Start */
+.belong button{
+    box-shadow: 7px 7px #000;
+}
+.belong button:hover{
+    box-shadow: 0px 0px #000;
+    transition: all 1s;
+}
+/* Belong Section End */
+/* Table Section Start */
+.tablecon table tr .tableh:hover{
+    color: #fff;
+    transition: all 0.5s;
+    background-color: #000;
+}
+/* Table Section End */
+/* Page 2ND End */
