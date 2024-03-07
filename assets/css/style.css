@@ -135,3 +135,58 @@
 }
 /* Table Section End */
 /* Page 2ND End */
+
+/* Media Section Start */
+@media only screen and (max-width: 992px){
+    .header{height: auto;}
+    .header .spotl{
+        font-size: 16px !important;
+        margin: 5px 0px;
+    }
+    .header .disc{
+        font-size: 16px !important;
+        margin: 13px 0px;
+    }
+    .header button p{
+        font-size: 8px;
+    }
+    .header .lisa{
+        right: 15% !important;
+    }
+    .header .vrthree{
+        right: 13%;
+    }
+    .navone{
+        width: 28px;
+        height: 32px;
+    }
+    .toggone{
+        right: 3%;
+        top: 1%;
+    }
+    .banner h1{
+        font-size: 40px;
+        line-height: 31px;
+    }
+    .banner .learnbtn{
+        width: 37% !important;
+        left: 70%;
+        bottom: -16%;
+        padding: 2px !important;
+    }
+    .banner .socialbtn{
+        padding: 0px 0px !important;
+    }
+    .under p{
+        font-size: 15px !important;
+    }
+    .under span{
+        font-size: 15px !important;
+    }
+    .proudly span{
+        font-size: 15px !important;
+    }
+    /* 2nd part */
+    
+}
+/* Media Section End */
