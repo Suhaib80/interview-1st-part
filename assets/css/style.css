@@ -186,6 +186,46 @@
     .proudly span{
         font-size: 15px !important;
     }
+    .discus .vrfour{right: 9%;}
+    .about .abbtn{
+        font-size: 20px;
+        width: 156px;
+    }
+    .the .thespotl{
+        font-size: 55px;
+        line-height: 54px;
+    }
+    .the p{
+        font-size: 12px;
+    }
+    .opening{height: 750px;}
+    .opening h1,
+    .changing h1,
+    .meet h1{font-size: 30px;}
+    .opening p,
+    .changing p,
+    .meet p{font-size: 15px !important;}
+    .changing{height: 300px;}
+    .imag img{
+        height: 90px;
+        width: 90px;
+    }
+    .imag{padding-bottom: 50px;}
+    .imag h5{font-size: 15px;}
+    .imag she{font-size: 12px !important;}
+    .imag p{
+        font-size: 12px;
+        line-height: 0px;
+    }
+    .belong{padding-bottom: 50px;}
+    .belong h1{font-size: 28px;}
+    .belong p{font-size: 15px !important;}
+    .belong button{
+        font-size: 13px;
+    }
+    .tablecon .tableh,
+    .tablecon td{font-size: 12px;}
+    .tablecon td p{font-size: 12px;}
     /* 2nd part */
     
 }
