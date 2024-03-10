@@ -226,7 +226,55 @@
     .tablecon .tableh,
     .tablecon td{font-size: 12px;}
     .tablecon td p{font-size: 12px;}
-    /* 2nd part */
-    
+    /* 2nd part */  
+}
+@media only screen and (max-width: 768px){
+    .header{height: auto;}
+    .header .spotl{
+        font-size: 14px !important;
+        margin: 7px 0px;
+    }
+    .header .disc{
+        font-size: 15px !important;
+        margin: 14px 0px;
+    }
+    .banner .discbox{
+        left: 7%;
+        font-size: 18px !important;
+    }
+    .banner .learnbtn{
+        width: 37% !important;
+        left: 98%;
+        bottom: -16%;
+        font-size: 10px;
+        padding: 2px !important;
+    }
+    .banner .socialbtn{
+        height: 24px;
+        font-size: 0px;
+    }
+    .discus .vrfour{right: 10%;}
+    .about .abbtn{
+        width: 149px;
+        font-size: 18px;
+    }
+    .opening{padding-top: 10px;}
+    .changing{padding-top: 90px;}
+    .changing p{left: 15%;}
+    .meet{height: 168px;}
+    .imag img{
+        height: 60px;
+        width: 60px;
+    }
+    .imag .imagtwo{padding-top: 40px;}
+    .belong button{
+        font-size: 11px;
+        margin-left: 25px !important;
+    }
+    .belong h1{font-size: 25px;}
+    .belong p{font-size: 12px !important;}
+    .tablecon .tableh,
+    .tablecon td{font-size: 10px;}
+    .tablecon td p{font-size: 10px;}
 }
 /* Media Section End */
